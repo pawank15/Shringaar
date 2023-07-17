@@ -24,4 +24,4 @@ To run this website locally, follow these steps:
 
 1. Clone this repository:
    
-   git clone https://github.com/pawank15/shringaar.git
+   git clone https://github.com/pawanupadhyaay/Jewellery-website.git
